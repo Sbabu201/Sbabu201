@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack ...
 - 💞️ I’m looking to collaborate on Web Developement ...
 - 📫 reach me - soumyasundarmohapatra@gmail.com
-- my portfolio -https://port-folio-soumya-sundar-mohapatras-projects.vercel.app/#companies
+- my portfolio -https://port-folio-soumya-sundar-mohapatras-projects.vercel.app
 
 
 <!---
