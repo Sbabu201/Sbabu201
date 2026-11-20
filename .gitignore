@@ -15,3 +15,6 @@ source-prepped.png
 __pycache__/
 *.py[cod]
 .env
+.venv/
+photo.jpg
+scripts/prep_photo_fast.py
